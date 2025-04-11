@@ -37,7 +37,6 @@ This repository provides a **large-scale content recommendation system** for mov
 ├── final_100k_movies_webseries.csv    # Generated CSV file (after you run generate_data.py)
 ├── MovieRecommendationSystem.ipynb    # (Optional) Jupyter Notebook version (if any)
 ├── README.md                      # Project documentation
-└── requirements.txt               # Optional: pinned dependencies
 ```
 
 ---
@@ -143,8 +142,8 @@ This project is open-source under the MIT License.
 
 For any questions or suggestions, please open an **Issue** or reach out via:
 
-- **Author**: *Your Name*  
-- **Email**: *you@example.com*
+- **Author**: *Prem Sharma*  
+- **Email**: *imprem858@gmail.com*
 
 ---
 *Thank you for using the Global Movie & Webseries Recommendation System!*
